@@ -43,13 +43,16 @@ This project demonstrates the deployment and configuration of a Linux Virtual Ma
 ## Screenshots
 
 ### Deployment Complete
-(Add deployment screenshot here)
+
+!Deployment Complete
 
 ### Deployment Details
-(Add deployment details screenshot here)
+
+deployment-details.png
 
 ### VM Overview
-(Add VM overview screenshot here)
+
+VM%20Overview.png
 
 ## Key Learning Outcomes
 
